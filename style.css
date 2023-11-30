@@ -11,13 +11,15 @@ h1{
 }
 
 p{
-    color:deeppink
+    color:deeppink;
 }
 
 ul{
-    color:crimson
+    color:crimson;
 }
 
 footer{
-
+background-color:black;
+    color:white;
+    
 }
